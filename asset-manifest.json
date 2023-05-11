@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/landing-page-medical/static/css/main.331dfd34.css",
+    "main.js": "/landing-page-medical/static/js/main.e7ff55a8.js",
+    "static/media/hospital.jpg": "/landing-page-medical/static/media/hospital.635b2b79ba8e79e886d1.jpg",
+    "static/media/illustration.jpg": "/landing-page-medical/static/media/illustration.05ffc43308c74840348f.jpg",
+    "index.html": "/landing-page-medical/index.html",
+    "main.331dfd34.css.map": "/landing-page-medical/static/css/main.331dfd34.css.map",
+    "main.e7ff55a8.js.map": "/landing-page-medical/static/js/main.e7ff55a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.331dfd34.css",
+    "static/js/main.e7ff55a8.js"
+  ]
+}
